@@ -1,3 +1,30 @@
 # awesome-science-ai-agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome resources on AI agents for Science.
+
+## Contents
+- [Papers](#papers)
+- [Datasets](#datasets)
+- [Software Tools](#software-tools)
+- [Benchmarks](#benchmarks)
+- [Communities](#communities)
+- [Contributing](#contributing)
+
+---
+
+## Papers
+- [Deep Learning for Species Distribution Modeling](link) - Explores DL applications in ecology.
+
+## Datasets
+- [GBIF](https://www.gbif.org/) - Global biodiversity data repository.
+- [EcoSet](link) - Multimodal ecological dataset.
+
+## Software Tools
+- [EcoML](link) - Open-source toolkit for ecological ML.
+
+## Communities
+- [r/ecology](https://www.reddit.com/r/ecology/) - Reddit community for ecology discussions.
+- [EcoHack](https://example.org) - Hackathon focused on AI in ecology.
+
+## Contributing
+Contributions welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
