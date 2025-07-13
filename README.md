@@ -13,7 +13,15 @@ A curated list of awesome resources on AI agents for Science.
 ---
 
 ## Papers
-- [Deep Learning for Species Distribution Modeling](link) - Explores DL applications in ecology.
+### Generic Agentic Workflows
+
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) - a prompting method that combines reasoning and acting to improve LLM decision-making and interactivity
+🔗 [Code](https://github.com/ysymyth/ReAct)
+
+### Scientific Domains
+
+#### Chemistry
+- ChemCrow
 
 ## Datasets
 - [GBIF](https://www.gbif.org/) - Global biodiversity data repository.
