@@ -18,7 +18,7 @@ A curated list of awesome resources on AI agents for Science.
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) - a prompting method that combines reasoning and acting to improve LLM decision-making and interactivity
 🔗 [Code](https://github.com/ysymyth/ReAct)
 
-### Scientific Domains
+### Scientific Domain-specific Agentic Workflows
 
 #### Chemistry
 - ChemCrow
