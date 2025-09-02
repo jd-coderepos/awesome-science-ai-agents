@@ -4,7 +4,7 @@ A curated list of awesome resources on AI agents for Science.
 
 ## Contents
 - [Papers](#papers)
-- [Benchmarks & Datasets](#benchmarks-&-datasets)
+- [Benchmarks & Datasets](#benchmarks--datasets)
 - [Software Tools](#software-tools)
 - [Communities](#communities)
 - [Contributing](#contributing)
