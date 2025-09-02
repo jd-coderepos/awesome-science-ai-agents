@@ -4,9 +4,8 @@ A curated list of awesome resources on AI agents for Science.
 
 ## Contents
 - [Papers](#papers)
-- [Datasets](#datasets)
+- [Benchmarks & Datasets](#benchmarks-&-datasets)
 - [Software Tools](#software-tools)
-- [Benchmarks](#benchmarks)
 - [Communities](#communities)
 - [Contributing](#contributing)
 
@@ -21,9 +20,10 @@ A curated list of awesome resources on AI agents for Science.
 ### Scientific Domain-specific Agentic Workflows
 
 #### Chemistry
-- ChemCrow
+- [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376) - 
+🔗 [Code](https://github.com/ur-whitelab/chemcrow-public)
 
-## Datasets
+## Benchmarks & Datasets
 - [GBIF](https://www.gbif.org/) - Global biodiversity data repository.
 - [EcoSet](link) - Multimodal ecological dataset.
 
