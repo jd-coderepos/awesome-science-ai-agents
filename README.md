@@ -28,6 +28,7 @@ A curated list of awesome resources on AI agents for Science.
 - [EcoSet](link) - Multimodal ecological dataset.
 
 ## Software Tools
+- [Dr. Claw](https://github.com/OpenLAIR/dr-claw) - Local research workspace with agent-driven survey, ideation, experiment, publication, and promotion stages.
 - [EcoML](link) - Open-source toolkit for ecological ML.
 
 ## Communities
