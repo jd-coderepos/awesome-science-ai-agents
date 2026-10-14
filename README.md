@@ -29,6 +29,7 @@ A curated list of awesome resources on AI agents for Science.
 
 ## Software Tools
 - [EcoML](link) - Open-source toolkit for ecological ML.
+- [ScholarCopilot](https://github.com/TIGER-AI-Lab/ScholarCopilot) – An academic writing assistant that jointly generates scholarly text and retrieves citation suggestions.
 
 ## Communities
 - [r/ecology](https://www.reddit.com/r/ecology/) - Reddit community for ecology discussions.
